@@ -12,9 +12,9 @@
 
 ### About Me
 
-- 🧠 Building full-stack web applications & AI-driven platforms using **React, Next.js, Node.js, and MongoDB**
-- 🎨 Passionate about intuitive UI/UX, graphic design, and clean code
-- ⚡ I believe software should be **fun, impactful, scalable, and built with purpose**
+-  Building full-stack web applications & AI-driven platforms using **React, Next.js, Node.js, and MongoDB**
+-  Passionate about intuitive UI/UX, graphic design, and clean code
+-  I believe software should be **fun, impactful, scalable, and built with purpose**
 
 ---
 
@@ -26,12 +26,12 @@
 
 ---
 
-### 🔥 GitHub Stats & Streak
+###  GitHub Stats & Streak
 
 <div align="center">
 
-[![Sadia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadiamahamoud&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sadiamahamoud&theme=dark)](https://git.io/streak-stats)
+[![Sadia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadia-webdev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sadia-webdev&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
@@ -39,6 +39,6 @@
 
 <div align="center">
 
-⚡ **Building with purpose, learning with passion** ⚡
+ **Building with passion** 
 
 </div>
