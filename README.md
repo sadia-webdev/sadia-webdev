@@ -1,8 +1,8 @@
 <div align="center">
 
-# ✨ Hey there, I'm Sadia Mahamoud ✨
+#  Hey there, I'm Sadia Mahamoud
 
-### Full-Stack Web Developer ⚛️ | AI Engineer 🤖 | Open Source Lover 🌍
+### Full-Stack Web Developer | AI Engineer 🤖 | Open Source Lover 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sadiamahamoud&color=0e7586&style=flat)](https://github.com/sadiamahamoud)
 
@@ -10,7 +10,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - 🧠 Building full-stack web applications & AI-driven platforms using **React, Next.js, Node.js, and MongoDB**
 - 🎨 Passionate about intuitive UI/UX, graphic design, and clean code
