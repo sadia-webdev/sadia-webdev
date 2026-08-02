@@ -1,49 +1,44 @@
-# 👋 Hi, I'm Sadia!
+<div align="center">
 
-💻 Full-Stack Web Developer in training | 🎓 Computer Science Student | 🌍 Lifelong Learner  
-Passionate about building **clean, responsive, and user-friendly web applications**.
+# ✨ Hey there, I'm Sadia Mahamoud ✨
 
----
+### Full-Stack Web Developer ⚛️ | AI Engineer 🤖 | Open Source Lover 🌍
 
-## 🌱 Currently Learning 
-🎫  TypeScript 
+[![Profile Views](https://komarev.com/ghpvc/?username=sadiamahamoud&color=0e7586&style=flat)](https://github.com/sadiamahamoud)
 
----
-
-## 🛠 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,mongodb" />
-</p>
+</div>
 
 ---
 
-## 📌 Projects I'm Proud Of
+### 🚀 About Me
 
-🔹 **[Learnzy](https://learnzy-six.vercel.app/)**  
-👨‍🏫 learning management system where students can browse courses, enroll, track progress 
-[Repo](https://github.com/sadia-webdev/Learnzy)
-
-🔹 **[finance-tracker](https://finance-tracker-fullstack.onrender.com/login)**  
- 💰 A full-stack finance tracking application that helps users manage income and expense
-[Repo](https://github.com/sadia-webdev/finance-tracker-fullstack/tree/main)
-
-🔹 **[Booksome Library](https://github.com/sadia-webdev/Booksome-Library)**  
-📚 Responsive web app using Tailwind + Google Books API.  
+- 🧠 Building full-stack web applications & AI-driven platforms using **React, Next.js, Node.js, and MongoDB**
+- 🎨 Passionate about intuitive UI/UX, graphic design, and clean code
+- ⚡ I believe software should be **fun, impactful, scalable, and built with purpose**
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadia-webdev&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadia-webdev&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
+### 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
-## 🤝 Let's Connect
-- 📧 Email: **sacdamamoud@gmail.com**  
-- 💼 LinkedIn: [sadia mahmoud](https://www.linkedin.com/in/sadia-webdev)  
+### 🔥 GitHub Stats & Streak
+
+<div align="center">
+
+[![Sadia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadiamahamoud&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sadiamahamoud&theme=dark)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-✨ *Fun Fact:* I love reading 📖, tea ☕, and solving tech puzzles 🧩. Learning never stops!
+<div align="center">
+
+⚡ **Building with purpose, learning with passion** ⚡
+
+</div>
