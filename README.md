@@ -2,7 +2,7 @@
 
 # Hey, I'm Sadia Mahamoud 
 
-### Full-Stack Developer • AI Engineer • Builder 🤖
+### Full-Stack Developer • AI Engineer • Builder 
 
 I build **full-stack web applications and AI-powered products** that solve real problems.
 
@@ -12,7 +12,7 @@ I build **full-stack web applications and AI-powered products** that solve real 
 
 ---
 
-## 👩🏽‍💻 About Me
+##  About Me
 
 *  Full-stack developer focused on **React, Next.js, TypeScript, Node.js, and SQL**
 *  AI Engineer building applications with **RAG, embeddings, LLMs, and AI SDKs**
