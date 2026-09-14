@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Sadia Mahamoud 👋
+# Hey, I'm Sadia Mahamoud 
 
 ### Full-Stack Developer • AI Engineer • Builder 🤖
 
@@ -14,18 +14,18 @@ I build **full-stack web applications and AI-powered products** that solve real 
 
 ## 👩🏽‍💻 About Me
 
-* 🚀 Full-stack developer focused on **React, Next.js, TypeScript, Node.js, and SQL**
-* 🤖 AI Engineer building applications with **RAG, embeddings, LLMs, and AI SDKs**
-* 🧠 Interested in building practical AI products for **real businesses and users**
-* 🛠️ Currently building an **AI employee for Somali businesses** that can learn a business's knowledge and answer its customers
-* 🎨 I care about **clean UI, intuitive UX, maintainable code, and thoughtful product design**
-* 🌱 Always learning, building, and experimenting with new technologies
+*  Full-stack developer focused on **React, Next.js, TypeScript, Node.js, and SQL**
+*  AI Engineer building applications with **RAG, embeddings, LLMs, and AI SDKs**
+*  Interested in building practical AI products for **real businesses and users**
+*  Currently building an **AI employee for Somali businesses** that can learn a business's knowledge and answer its customers
+*  I care about **clean UI, intuitive UX, maintainable code, and thoughtful product design**
+*  Always learning, building, and experimenting with new technologies
 
 > **I believe software should be useful, scalable, and built with purpose.**
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -52,7 +52,7 @@ I build **full-stack web applications and AI-powered products** that solve real 
 
 ---
 
-## 🤖 Featured Project
+##  Featured Project
 
 ### AI Employee for Somali Businesses
 
@@ -64,20 +64,20 @@ An AI-powered SaaS platform that allows businesses to provide their knowledge to
 
 **Key features:**
 
-* 📚 Business knowledge base with document uploads
-* 🔎 Retrieval-Augmented Generation (RAG)
-* 🧠 Semantic search with vector embeddings
-* 💬 AI-powered customer conversations
-* 🏢 Business-specific knowledge isolation
-* 📊 Conversation and usage analytics
-* 🌍 Somali + English support
-* 🔐 Authentication and business accounts
+*  Business knowledge base with document uploads
+*  Retrieval-Augmented Generation (RAG)
+*  Semantic search with vector embeddings
+*  AI-powered customer conversations
+*  Business-specific knowledge isolation
+*  Conversation and usage analytics
+*  Somali + English support
+*  Authentication and business accounts
 
 > **Vision:** An AI employee that knows one business and answers that business's customers.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -99,6 +99,6 @@ An AI-powered SaaS platform that allows businesses to provide their knowledge to
 
 <div align="center">
 
-### Building. Learning. Shipping. 🚀
+### Building. Learning. Shipping. 
 
 </div>
